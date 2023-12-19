@@ -7,7 +7,7 @@ Moreover, this study can also be applied to alternative reference management too
 
 <h2>Flowchart for the proposed systematic analysis of Mendeley docume</h2>
 <p align="center">
-  <img src="/icons/Fig_flowchart_lit_rev.png" width="800" height="450">
+  <img src="/icons/Fig_flowchart_lit_rev.png" width="1000" height="500">
 </p>
 
 <h2>Results and Discussion</h2>
