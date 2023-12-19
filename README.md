@@ -37,11 +37,11 @@ Mendeley documents.
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_All_Mend_Topics.png" width="1000" height="700">
+  <img src="/icons/Fig_All_Mend_Topics.png" width="1000" height="750">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_All_Mend_map_topics.png" width="1000" height="700">
+  <img src="/icons/Fig_All_Mend_map_topics.png" width="1000" height="800">
 </p>
 
 <p align="center">
