@@ -20,6 +20,10 @@ understanding of the overarching themes within the document collection. The gene
 and summaries offer a distilled representation of the knowledge landscape encapsulated in the
 Mendeley documents.
 
+<p align="center">
+  <img src="/icons/Fig_years_topic.png" width="500" height="400">
+</p>
+
 <h2>Conclusion</h2>
 This study showcases the successful integration of ChatGPT as a utility for analyzing a sub-
 stantial collection of Mendeley documents. The use of advanced natural language processing
