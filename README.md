@@ -49,7 +49,7 @@ Mendeley documents.
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_years_topic.png" width="500" height="400">
+  <img src="/icons/Fig_years_topic.png" width="1000" height="800">
 </p>
 
 <p align="center">
