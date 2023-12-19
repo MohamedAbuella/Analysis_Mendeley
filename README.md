@@ -33,7 +33,7 @@ Mendeley documents.
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_publications_per_author.png" width="650" height="400">
+  <img src="/icons/Fig_publications_per_author.png" width="700" height="350">
 </p>
 
 <p align="center">
