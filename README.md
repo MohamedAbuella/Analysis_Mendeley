@@ -3,7 +3,7 @@
 
 <h2>Flowchart for the proposed systematic analysis of Mendeley docume</h2>
 <p align="center">
-  <img src="/icons/Fig_flowchart_lit_rev.png" width="500" height="625">
+  <img src="/icons/Fig_flowchart_lit_rev.png" width="650" height="500">
 </p>
 
 <h2>Results and Discussion</h2>
