@@ -21,19 +21,19 @@ and summaries offer a distilled representation of the knowledge landscape encaps
 Mendeley documents.
 
 <p align="center">
-  <img src="/icons/Fig_publication_years_2000s.png" width="500" height="400">
+  <img src="/icons/Fig_publication_years_2000s.png" width="400" height="400">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_publication_types.png" width="500" height="400">
+  <img src="/icons/Fig_publication_types.png" width="400" height="400">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_journal_publications.png" width="500" height="400">
+  <img src="/icons/Fig_journal_publications.png" width="400" height="400">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_publications_per_author.png" width="500" height="400">
+  <img src="/icons/Fig_publications_per_author.png" width="400" height="400">
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ Mendeley documents.
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_publications_per_topics.png" width="500" height="400">
+  <img src="/icons/Fig_publications_per_topics.png" width="350" height="400">
 </p>
 
 <p align="center">
