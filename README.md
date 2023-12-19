@@ -3,8 +3,7 @@
 The efficient management and organization of an extensive document library in the academic research reflects the ongoing development of knowledge and expertise. 
 Since 2011, I have diligently accumulated a substantial collection of academic documents in Mendeley with diverse research interests. Several attempts have been made to extract meaningful insights from this extensive archive, with the most recent endeavor taking place in the summer of 2022.
 This study explores the use of ChatGPT as an assistant-style Chatbot to convert a vast collection of academic documents from Mendeley into insightful graphs, concise summaries, and other tasks tailored to user needs.  
-Moreover, this study can also be applied to alternative reference management tools such as Zotero. Additionally, it demonstrates practical scalability to handle the analysis of substantial number of publications in PDF format.\\
-
+Moreover, this study can also be applied to alternative reference management tools such as Zotero. Additionally, it demonstrates practical scalability to handle the analysis of substantial number of publications in PDF format.
 
 <h2>Flowchart for the proposed systematic analysis of Mendeley docume</h2>
 <p align="center">
