@@ -21,7 +21,7 @@ and summaries offer a distilled representation of the knowledge landscape encaps
 Mendeley documents.
 
 <p align="center">
-  <img src="/icons/Fig_publication_years_2000s.png" width="550" height="400">
+  <img src="/icons/Fig_publication_years_2000s.png" width="750" height="400">
 </p>
 
 <p align="center">
