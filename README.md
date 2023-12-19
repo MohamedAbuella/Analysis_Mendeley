@@ -32,9 +32,6 @@ Mendeley documents.
   <img src="/icons/Fig_y_journal_publications.png" width="700" height="350">
 </p>
 
-<p align="center">
-  <img src="/icons/Fig_y_publisher_publications.png" width="700" height="350">
-</p>
 
 <p align="center">
   <img src="/icons/Fig_publications_per_author.png" width="700" height="350">
