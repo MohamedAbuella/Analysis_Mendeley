@@ -1,0 +1,43 @@
+digraph {
+	graph [fontname=calibri fontsize=18 rankdir=TB]
+	A [label="Using JabRef to Export 
+ Mendeley PDFs into 
+ CSV file with Paths 
+ of the PDF files" fillcolor="#FFD699" shape=box style=filled]
+	B [label="Read CSV Data" fillcolor="#FFD699" shape=box style=filled]
+	C [label="Data Cleaning" fillcolor="#FFD699" shape=box style=filled]
+	D [label="Read PDFs Text" fillcolor="#FFD699" shape=box style=filled]
+	E [label="Analyze & Visualize" shape=box]
+	E1 [label="Generate Visualizations" shape=box]
+	E2 [label="Topic Modeling" fillcolor="#CCFFFF" shape=box style=filled]
+	E -> E1
+	E -> E2
+	E1a [label="Bar Plots: Years, Publishers, 
+  Authors, Affiliations, etc." shape=box]
+	E1 -> E1a
+	E2a [label="Word Clouds 
+ Per Topic" fillcolor="#CCFFFF" shape=box style=filled]
+	E2b [label="Mapping and Clustering 
+ Publications to Topics" fillcolor="#CCFFFF" shape=box style=filled]
+	E2 -> E2a
+	E2 -> E2b
+	F [label="Save Results" shape=box]
+	F1 [label="Save Data & Visualizations" shape=box]
+	F -> F1
+	G [label="Additional Functionalities" fillcolor="#E6E6FA" shape=box style=filled]
+	G1 [label="Build User Dashboard 
+ Interactive Widget" fillcolor="#E6E6FA" shape=box style=filled]
+	G2 [label="Statistical Analysis of 
+ Publications Per Topic" fillcolor="#E6E6FA" shape=box style=filled]
+	G3 [label="Extract Funding Sources, 
+  Limitations, etc. Per Topic" fillcolor="#E6E6FA" shape=box style=filled]
+	G -> G1
+	G -> G2
+	G -> G3
+	A -> B
+	B -> C
+	C -> D
+	D -> E
+	E -> F
+	F -> G
+}
