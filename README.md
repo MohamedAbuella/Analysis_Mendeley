@@ -77,23 +77,25 @@ and context-aware approach to understanding the nuances of the docume
 
 # References
 
-1. D. Yang, J. Kleissl, C. A. Gueymard, H. T. Pedro, and C. F. Coimbra, “History and trends in
-   solar irradiance and pv power forecasting: A preliminary assessment and review using text
-   mining,” Solar Energy, vol. 168, pp. 60–101, 2018.
+1. D. Yang, J. Kleissl, C. A. Gueymard, H. T. Pedro, and C. F. Coimbra, “History and trends
+   in solar irradiance and PV power forecasting: A preliminary assessment and review using
+   text mining,” Solar Energy, vol. 168, pp. 60–101, 2018, Advances in Solar Resource
+   Assessment and Forecasting. [Online]. Available: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0038092X17310022)
 
 2. L. L. Wang, K. Lo, Y. Chandrasekhar, R. Reas, J. Yang, D. Burdick, D. Eide, K. Funk,
-   Y. Katsis, R. Kinney et al., “Cord-19: The covid-19 open research dataset,” ArXiv, 2020.
-   [Online]. Available: https://arxiv.org/abs/2004.10706
+   Y. Katsis, R. Kinney et al., “Cord-19: The COVID-19 open research dataset,” ArXiv, 2020.
+   [Online]. Available: [ArXiv](https://arxiv.org/abs/2004.10706)
 
 3. Covid-19 open research dataset challenge (cord-19). [Online]. Available:
-   https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge
+   [Kaggle Dataset](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge)
 
-4. Chatgpt. [Online]. Available: https://chat.openai.com/
+4. ChatGPT. [Online]. Available: [ChatGPT](https://chat.openai.com/)
 
-5. I. E. Pratama. (2023) Covid eda: Initial exploration tool. [Online]. Available:
-   https://www.kaggle.com/ivanegapratama/covid-eda-initial-exploration-tool
+5. I. E. Pratama. (2023) COVID EDA: Initial exploration tool. [Online]. Available:
+   [Kaggle](https://www.kaggle.com/ivanegapratama/covid-eda-initial-exploration-tool)
 
-6. M. Ekin. (2023) Covid-19 literature clustering. [Online]. Available:
-   https://www.kaggle.com/maksimeren/covid-19-literature-clustering#Loading-the-Data
+6. M. Ekin. (2023) COVID-19 literature clustering. [Online]. Available:
+   [Kaggle](https://www.kaggle.com/maksimeren/covid-19-literature-clustering#Loading-the-Data)
 
-7. Llama 2 is here - get it on hugging face. [Online]. Available: https://huggingface.co/blog/llama2
+7. Llama 2 is here - get it on Hugging Face. [Online]. Available: [Hugging Face Blog](https://huggingface.co/blog/llama2)
+
