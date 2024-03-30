@@ -102,4 +102,4 @@ and context-aware approach to understanding the nuances of the docume
 
 # Citation
 Abuella, M. (2024). Automating Academic Document Analysis with ChatGPT: A Mendeley Case. bioRxiv, 2024-03.
-
+Available at: https://www.biorxiv.org/content/10.1101/2024.03.18.585620v1
